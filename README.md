@@ -30,7 +30,7 @@ Ensure you have the following software installed on your system:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Aayush518/Embedded-System-VHDL.git
+git clone https://github.com/Chiranbaskota/VHDL-Lab.git
 cd Embedded-System-VHDL
 ```
 
@@ -83,12 +83,8 @@ gtkwave wave.ghw
 
 ```
 ├── src/                    # VHDL source files
-│   ├── module1.vhd
-│   ├── module2.vhd
-│   └── ...
+│   
 ├── test/                   # Testbench files
-│   ├── testbench1.vhd
-│   ├── testbench2.vhd
-│   └── ...
+│   
 └── README.md               # Project documentation
 ```
